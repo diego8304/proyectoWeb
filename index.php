@@ -14,6 +14,12 @@
     
     <div id="cajaDialogo">Alerta</div>
 
+    <div id="cajaDialogo1">Alerta</div>
+
+    <div id="cajaDialogo2">Alerta</div>
+
+    <div id="cajaDialogo3">Alerta</div>
+
     <!-- Mensaje de prueba --->
 
 
