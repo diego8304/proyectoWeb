@@ -22,6 +22,7 @@
 
     <!-- Mensaje de prueba --->
 
+    <div id="cajaDialogo4">Alerta</div>
 
 </body>
 </html>
