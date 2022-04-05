@@ -11,6 +11,8 @@
 <body>
     
     <div id="bienvenidos">Mensaje de prueba</div>
+    
+    <div id="cajaDialogo">Alerta</div>
 
     <!-- Mensaje de prueba --->
 
