@@ -24,5 +24,10 @@
 
     <div id="cajaDialogo4">Alerta</div>
 
+    <input type="button" onClick=saludos() name="Click" value="Clik" >
+
+
 </body>
+
+<script src="js/usuario.js"></script>
 </html>
