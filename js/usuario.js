@@ -1,0 +1,6 @@
+function saludos(){
+
+    alert ("Bienvenidos");
+
+
+}
